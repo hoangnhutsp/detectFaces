@@ -1,1 +1,1 @@
-/ dectectFacesUseOpenCV
+Detect Faces Use OpenCV
